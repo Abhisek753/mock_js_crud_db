@@ -1,10 +1,12 @@
 {
     "users":[
-      {"id":1,"Username":"Rakesh","Email":"Rakesh@gmail.com","Password":"123456","Rpassword":"123456"},
-      {"id":2,"Username":"Abhisek","Email":"Abhisek@gmail.com","Password":"123456","Rpassword":"123456"},
+      
       {"id":3,"Username":"Munnu","Email":"Munnu@gmail.com","Password":"123456","Rpassword":"123456"}
       
       
+      
+    ],
+    "data":[
       
     ]
 }
