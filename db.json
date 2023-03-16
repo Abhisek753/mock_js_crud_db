@@ -1,8 +1,10 @@
 {
-    "blogs":[
-      {"id":1,"title":"React Js","author":"Abhisek"},
-      {"id":2,"title":"Chakra UI","author":"Abhinav"},
-      {"id":3,"title":"Redux ","author":"Chandrani"}
+    "users":[
+      {"id":1,"Username":"Rakesh","Email":"Rakesh@gmail.com","Password":"123456","Rpassword":"123456"},
+      {"id":2,"Username":"Abhisek","Email":"Abhisek@gmail.com","Password":"123456","Rpassword":"123456"},
+      {"id":3,"Username":"Munnu","Email":"Munnu@gmail.com","Password":"123456","Rpassword":"123456"}
+      
+      
       
     ]
 }
